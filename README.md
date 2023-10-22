@@ -4,7 +4,7 @@
 
 ## Objective
 
-"The objective of the Hotel Management System is to streamline and enhance the guest booking experience for a delightful stay for the guests while providing comprehensive tools for hotel managers to efficiently oversee staff management"
+"The objective of the Hotel Management System is to streamline and enhance the guest booking experience for a delightful stay for the guests while providing comprehensive tools for hotel managers to efficiently oversee staff management."
 
 ## Contributors
 
